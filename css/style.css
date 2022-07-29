@@ -22,6 +22,11 @@ body {
 }
 
 header,
-#course-section {
+#course-section,
+#elearning-section {
     margin-bottom: 5rem;
+}
+
+.bg-institute {
+    background-color: #F4FAFD;
 }
