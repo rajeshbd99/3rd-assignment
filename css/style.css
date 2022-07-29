@@ -20,3 +20,8 @@ body {
     background-color: black;
     opacity: 0.5;
 }
+
+header,
+#course-section {
+    margin-bottom: 5rem;
+}
