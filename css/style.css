@@ -23,7 +23,8 @@ body {
 
 header,
 #course-section,
-#elearning-section {
+#elearning-section,
+#registration {
     margin-bottom: 5rem;
 }
 
