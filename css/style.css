@@ -24,10 +24,17 @@ body {
 header,
 #course-section,
 #elearning-section,
-#registration {
+#registration,
+#success-full-student-section,
+#slider {
     margin-bottom: 5rem;
 }
 
 .bg-institute {
     background-color: #F4FAFD;
+}
+
+.slider-start-icon,
+.slider-end-icon {
+    background-color: black;
 }
